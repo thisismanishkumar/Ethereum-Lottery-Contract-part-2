@@ -1,6 +1,6 @@
 # Ethereum-Lottery-Contract-part-2
-React App where you can join a lottery contract and can win __Rinkbey test network__ Ether.
-
++ React App where you can join a lottery contract and can win __Rinkbey test network__ Ether.
++ you can deploy another contract and can update [lottery.js](/src/lottery.js) address and abi (but functionality should be same as in [App.js](/src/App.js))
 
 ## To run the React app:-
 + sudo npm install -g create-react-app (anywhere)
