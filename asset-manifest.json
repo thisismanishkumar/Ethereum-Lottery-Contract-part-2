@@ -1,6 +1,22 @@
 {
-  "main.css": "static/css/main.72c4295b.css",
-  "main.css.map": "static/css/main.72c4295b.css.map",
-  "main.js": "static/js/main.02cf4fae.js",
-  "main.js.map": "static/js/main.02cf4fae.js.map"
+  "files": {
+    "main.css": "/Ethereum-Lottery-Contract-part-2/static/css/main.17d35094.chunk.css",
+    "main.js": "/Ethereum-Lottery-Contract-part-2/static/js/main.dd74ab9f.chunk.js",
+    "main.js.map": "/Ethereum-Lottery-Contract-part-2/static/js/main.dd74ab9f.chunk.js.map",
+    "runtime-main.js": "/Ethereum-Lottery-Contract-part-2/static/js/runtime-main.2bb02272.js",
+    "runtime-main.js.map": "/Ethereum-Lottery-Contract-part-2/static/js/runtime-main.2bb02272.js.map",
+    "static/js/2.d95e84fc.chunk.js": "/Ethereum-Lottery-Contract-part-2/static/js/2.d95e84fc.chunk.js",
+    "static/js/2.d95e84fc.chunk.js.map": "/Ethereum-Lottery-Contract-part-2/static/js/2.d95e84fc.chunk.js.map",
+    "index.html": "/Ethereum-Lottery-Contract-part-2/index.html",
+    "precache-manifest.e6b2dfe28cba8be39defd9822705ae4d.js": "/Ethereum-Lottery-Contract-part-2/precache-manifest.e6b2dfe28cba8be39defd9822705ae4d.js",
+    "service-worker.js": "/Ethereum-Lottery-Contract-part-2/service-worker.js",
+    "static/css/main.17d35094.chunk.css.map": "/Ethereum-Lottery-Contract-part-2/static/css/main.17d35094.chunk.css.map",
+    "static/js/2.d95e84fc.chunk.js.LICENSE": "/Ethereum-Lottery-Contract-part-2/static/js/2.d95e84fc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bb02272.js",
+    "static/js/2.d95e84fc.chunk.js",
+    "static/css/main.17d35094.chunk.css",
+    "static/js/main.dd74ab9f.chunk.js"
+  ]
 }
