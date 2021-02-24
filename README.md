@@ -12,3 +12,5 @@
   * __Replace__ src/App.js with repo [src/App.js](/src/App.js)
   * __Add__ [src/web3.js](/src/web3.js) and [src/lottery.js](/src/lottery.js) inside src directory
 + Finally run `npm run start` to start React App
+## Contributor:-
+* <a href="https://github.com/thisismanishkumar">Manish Kumar</a>
